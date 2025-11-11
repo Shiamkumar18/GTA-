@@ -140,7 +140,7 @@ function App() {
                   <div className='line w-8 h-1 bg-white'></div>
                   <div className='line w-5 h-1 bg-white'></div>
                 </div>
-                <h3 className='text-3xl -mt-[8px] leading-none text-white'>rockstar</h3>
+                <h3 className='text-3xl -mt-[8px] leading-none text-white font-[pricedown]'>rockstar</h3>
               </div>
             </div>
 
@@ -190,13 +190,13 @@ function App() {
                 />
               </div>
               <div className='rg w-[40%] py-10'>
-                <h1 className='text-3xl'>Ohh! Shit </h1>
-                <h1 className='text-2xl'>HERE WE GO AGAIN</h1>
+                <h1 className='text-3xl font-[pricedown]'>Ohh! Shit </h1>
+                <h1 className='text-2xl font-[pricedown]'>HERE WE GO AGAIN</h1>
                 <p className='mt-10  font-[Helvetica_Now_Display]'>Grand Theft Auto (GTA) is an open-world action-adventure game series created by Rockstar Games.</p>
                 <p className='mt-5 font-[Helvetica_Now_Display]'>It’s not just a game — it’s a lifestyle of action, power, and endless possibilities.</p>
                 <p className='mt-5 font-[Helvetica_Now_Display]'>Grand Theft Auto (GTA) is one of the most popular open-world action-adventure game series created by Rockstar Games. The game allows players to explore detailed cities, complete exciting missions, and experience thrilling adventures full of action, driving, and storytelling. Known for its freedom, realistic graphics, and engaging gameplay, GTA lets players live the life of a criminal in a virtual world filled with endless possibilities. From GTA Vice City to GTA V, every version brings a new level of excitement and realism, making it a favorite among gamers worldwide.
                 </p>
-                <button className='bg-yellow-500 px-8 py-5 text-black rounded-xl text-3xl mt-5 border-2 border-white'>Download NOw</button>
+                <button className='bg-yellow-500 px-8 py-5 text-black rounded-xl text-3xl mt-5 border-2 border-white font-[pricedown]'>Download NOw</button>
               </div>
             </div>
 
